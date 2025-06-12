@@ -44,7 +44,4 @@ This project explores the relationships between **energy supply**, **renewable e
 
 ## 🚀 Getting Started
 
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/your-username/world-energy-gdp-analysis.git
-   cd world-energy-gdp-analysis
+Assignment 3 from Introduction to Data Science in Python course michigan university
